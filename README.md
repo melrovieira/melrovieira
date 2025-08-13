@@ -16,7 +16,7 @@ Olá, sou Allison.
     
 🔭 Sou apaixonado pelo mundo Open Source  
 👯 Aberto para colaborar em projetos interessantes.  
-🐧 Linux User - Atualmente Ubuntu  
+🐧 Linux User - Atualmente Ubuntu  25.04
       
 📫 Como me encontrar:  
 [LinkedIn](https://www.linkedin.com/in/allisonvmelro/)  
