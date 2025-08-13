@@ -1,5 +1,6 @@
-<div align="center">
 Olá, sou Allison.
+
+
 ### 🚀 Sobre mim
 
 - 🔭 Sou apaixonado pelo mundo Open Source
@@ -8,6 +9,9 @@ Olá, sou Allison.
 - 📫 Como me encontrar:
   - [LinkedIn](https://www.linkedin.com/in/allisonvmelro/)
   - [Email](mailto:allisonmelro@gmail.com)
+
+
+<div align="center">
 
 <br><br>
 
