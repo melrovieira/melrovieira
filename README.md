@@ -26,3 +26,4 @@ Olá, sou Allison.
 
 </div>
 
+<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/e1f12ca7-e43e-4ef9-ba0c-5e73ca861281" />
