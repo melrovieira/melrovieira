@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=melrovieira&show_icons=true&theme=dracula&hide_border=true" width="350" height="180" style="object-fit: cover;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=melrovieira&show_icons=true&theme=dracula&hide_border=true" width="350" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melrovieira&theme=dracula&hide_border=true" width="350" height="180" style="object-fit: cover;"/>
+    <td style="vertical-align:top;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melrovieira&theme=dracula&hide_border=true" width="350" />
     </td>
   </tr>
 </table>
