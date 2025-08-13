@@ -3,7 +3,7 @@ Olá, sou Allison.
 
 
 
-<div align="center">
+<div align="left">
 
 <br><br>
 
@@ -12,7 +12,7 @@ Olá, sou Allison.
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ### 🚀 Sobre mim
 
