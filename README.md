@@ -15,14 +15,14 @@ Olá, sou Allison.
     <div align="left">
       ### 🚀 Sobre mim
     
-      🔭 Sou apaixonado pelo mundo Open Source  
-      👯 Aberto para colaborar em projetos interessantes.  
-      🐧 Linux User - Atualmente Ubuntu  
+🔭 Sou apaixonado pelo mundo Open Source  
+👯 Aberto para colaborar em projetos interessantes.  
+🐧 Linux User - Atualmente Ubuntu  
       
-      📫 Como me encontrar:  
-      [LinkedIn](https://www.linkedin.com/in/allisonvmelro/)  
-      [Email](mailto:allisonmelro@gmail.com)  
-      <br>
+📫 Como me encontrar:  
+[LinkedIn](https://www.linkedin.com/in/allisonvmelro/)  
+[Email](mailto:allisonmelro@gmail.com)  
+<br>
   </div>
 </div>
 
