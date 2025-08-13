@@ -26,4 +26,4 @@ Olá, sou Allison.
 
 </div>
 
-<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/e1f12ca7-e43e-4ef9-ba0c-5e73ca861281" />
+<img width="120" height="120" alt="UbuntuCoF svg" src="https://github.com/user-attachments/assets/a1397198-a2ac-4576-b8af-3445f1c7d10e" />
