@@ -6,7 +6,7 @@ Olá, sou Allison.
 <div align="left">
 
 <br><br>
-<img alt="Top Langs" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melrovieira&show_icons=true&theme=dracula&random=123" />
+<img alt="Top Langs" width="400" height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melrovieira&show_icons=true&theme=dracula&random=123" />
 <img alt="GitHub stats" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=melrovieira&show_icons=true&theme=dracula" />
 
 </div>
