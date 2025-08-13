@@ -1,14 +1,6 @@
 Olá, sou Allison.
 
 
-### 🚀 Sobre mim
-
-- 🔭 Sou apaixonado pelo mundo Open Source
-- 👯 Aberto para colaborar em projetos interessantes.
-- 🐧 Linux User - Atualmente Ubuntu
-- 📫 Como me encontrar:
-  - [LinkedIn](https://www.linkedin.com/in/allisonvmelro/)
-  - [Email](mailto:allisonmelro@gmail.com)
 
 
 <div align="center">
@@ -20,3 +12,19 @@ Olá, sou Allison.
 
 </div>
 
+<div align="center">
+
+### 🚀 Sobre mim
+
+</div>
+
+<div align="center">
+
+- 🔭 Sou apaixonado pelo mundo Open Source  
+- 👯 Aberto para colaborar em projetos interessantes.  
+- 🐧 Linux User - Atualmente Ubuntu  
+- 📫 Como me encontrar:  
+  - [LinkedIn](https://www.linkedin.com/in/allisonvmelro/)  
+  - [Email](mailto:allisonmelro@gmail.com)  
+
+</div>
