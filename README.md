@@ -1,14 +1,8 @@
-<div align="center">
+# Hello
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=melrovieira&show_icons=true&theme=dracula&hide_border=true" width="350" />
-    </td>
-    <td style="vertical-align:top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melrovieira&theme=dracula&hide_border=true" width="350" />
-    </td>
-  </tr>
-</table>
+Am Nishi, just a random NetBSD user who writes codes in C.
 
-</div>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishiOwO&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NishiOwO&show_icons=ture" />
+</p>
