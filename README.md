@@ -11,20 +11,19 @@ Olá, sou Allison.
 <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=melrovieira&show_icons=true&theme=dracula" />
 
 </div>
-
-<div align="left">
-
-### 🚀 Sobre mim
-
-🔭 Sou apaixonado pelo mundo Open Source  
-👯 Aberto para colaborar em projetos interessantes.  
-🐧 Linux User - Atualmente Ubuntu  
-
-📫 Como me encontrar:  
-[LinkedIn](https://www.linkedin.com/in/allisonvmelro/)  
-[Email](mailto:allisonmelro@gmail.com)  
-<br>
-
+    <div align="center">
+    <div align="left">
+      ### 🚀 Sobre mim
+    
+      🔭 Sou apaixonado pelo mundo Open Source  
+      👯 Aberto para colaborar em projetos interessantes.  
+      🐧 Linux User - Atualmente Ubuntu  
+      
+      📫 Como me encontrar:  
+      [LinkedIn](https://www.linkedin.com/in/allisonvmelro/)  
+      [Email](mailto:allisonmelro@gmail.com)  
+      <br>
+  </div>
 </div>
 
 <div align="center">
