@@ -6,8 +6,8 @@ Olá, sou Allison.
 <div align="left">
 
 <br><br>
-<img alt="Top Langs" width="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melrovieira&show_icons=true&theme=dracula&random=123" />
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=melrovieira&show_icons=true&theme=dracula" />
+<img alt="Top Langs" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melrovieira&show_icons=true&theme=dracula&random=123" />
+<img alt="GitHub stats" width="300" src="https://github-readme-stats.vercel.app/api?username=melrovieira&show_icons=true&theme=dracula" />
 
 </div>
     <div align="left">
