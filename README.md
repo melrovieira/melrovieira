@@ -12,7 +12,6 @@ Olá, sou Allison.
 
 </div>
     <div align="center">
-    <div align="left">
       ### 🚀 Sobre mim
     
 🔭 Sou apaixonado pelo mundo Open Source  
@@ -23,7 +22,6 @@ Olá, sou Allison.
 [LinkedIn](https://www.linkedin.com/in/allisonvmelro/)  
 [Email](mailto:allisonmelro@gmail.com)  
 <br>
-  </div>
 </div>
 
 <div align="center">
