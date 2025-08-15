@@ -13,8 +13,8 @@ Olá, sou Allison.
     <div align="left">
       ### 🚀 Sobre mim
     
-🔭 Sou apaixonado pelo mundo Open Source  
-👯 Aberto para colaborar em projetos interessantes.  
+🔭 Entusiasta do Open Source
+👯 Aberto para colaborar em projetos
 🐧 Linux User - Atualmente Ubuntu  25.04
       
 📫 Como me encontrar:  
