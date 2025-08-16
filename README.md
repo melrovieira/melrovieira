@@ -14,11 +14,11 @@ Olá, sou Allison.
       ### 🚀 Sobre mim
     
 🔭 Entusiasta do Open Source
-
+<br>
 👯 Aberto para colaborar em projetos
-
+<br>
 🐧 Linux User - Atualmente Ubuntu  25.04
-      
+    <br>  
 📫 Como me encontrar:  
 [LinkedIn](https://www.linkedin.com/in/allisonvmelro/)  
 [Email](mailto:allisonmelro@gmail.com)  
